@@ -4,7 +4,7 @@ Code for ranking-based semantics
 Author :
 * Jérôme Delobelle (mailto:jerome.delobelle@u-paris.fr), Université Paris Cité
 
-To compile the program:
+To compile the program (in C):
 ```
 make clean
 make Propa
